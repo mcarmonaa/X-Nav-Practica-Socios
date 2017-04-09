@@ -1,0 +1,30 @@
+[
+  {
+    "author": "Manuel Carmona",
+    "avatar": "img/male.jpg",
+    "title": "The Smooth Dreamer",
+    "content": "Suspendisse efficitur mauris vel tristique ultrices. Aliquam a neque vel mauris consequat ultricies. Donec pretium facilisis bibendum. Nulla dapibus fermentum sapien, non mattis ligula consectetur at. Nam eleifend tempor lacus, dapibus aliquet ipsum consequat vel. Proin congue faucibus vehicula. Morbi luctus eros tincidunt iaculis auctor.",
+    "date": "dom abr  9 13:06:54 CEST 2017"
+  },
+  {
+    "author": "Manuel Carmona",
+    "avatar": "img/male.jpg",
+    "title": "The Rose's Servant",
+    "content": "Sed ex est, auctor eget cursus nec, elementum quis risus. Vivamus malesuada porttitor rhoncus. Suspendisse non euismod nisl, vitae posuere tortor. Sed bibendum semper ex, quis rutrum massa volutpat quis. Sed sodales tincidunt elit et pharetra.",
+    "date": "dom abr  9 13:06:54 CEST 2017"
+  },
+  {
+    "author": "Manuel Carmona",
+    "avatar": "img/male.jpg",
+    "title": "The Swords of the Flames",
+    "content": "Quisque tempor gravida mollis. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam sed ultrices elit. Aliquam ut diam eros. Etiam pellentesque, nibh vel condimentum ultricies, massa augue faucibus massa, non suscipit purus elit ut libero. Phasellus varius tristique lacinia.",
+    "date": "dom abr  9 13:06:54 CEST 2017"
+  },
+  {
+    "author": "Manuel Carmona",
+    "avatar": "img/male.jpg",
+    "title": "Prophecy in the Thorn",
+    "content": "Donec sit amet dolor et metus varius porttitor. Donec orci justo, consequat vel ultrices sit amet, posuere quis tortor. Nullam quis aliquet dui, elementum laoreet sapien. Curabitur vitae augue nec erat convallis suscipit. Pellentesque nulla mi, tempor a volutpat et, dapibus hendrerit risus.",
+    "date": "dom abr  9 13:06:54 CEST 2017"
+  }
+]
